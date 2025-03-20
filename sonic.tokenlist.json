@@ -20,7 +20,7 @@
       "name": "Bridged USDC",
       "symbol": "USDC.e",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/53278/thumb/VaSB8Eil_400x400.jpg?1735953637"
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDC.png"
     },
     {
       "chainId": 146,
