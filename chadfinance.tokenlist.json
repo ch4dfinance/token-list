@@ -21,6 +21,37 @@
       }
     },
     {
+      "chainId": 146,
+      "address": "0x29219dd400f2Bf60E5a23d13Be72B486D4038894",
+      "name": "USDC (bridged)",
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDC.png",
+      "tags": ["dex2"],
+      "coingeckoId": "usd-coin",
+      "chainlinkTokenTransferEnabled": false
+    },{
+      "chainId": 146,
+      "address": "0xe715cbA7B5cCb33790ceBFF1436809d36cb17E57",
+      "name": "EURC (bridged)",
+      "symbol": "EURC.e",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/EURC.png",
+      "tags": ["dex2"],
+      "coingeckoId": "euro-coin",
+      "chainlinkTokenTransferEnabled": false
+    },{
+      "chainId": 146,
+      "address": "0x309C92261178fA0CF748A855e90Ae73FDb79EBc7",
+      "name": "Wrapped Ethereum",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/ETH.png",
+      "tags": ["dex2"],
+      "coingeckoId": "ethereum",
+      "chainlinkTokenTransferEnabled": false
+    }
+    {
       "chainId": 534352,
       "address": "0x79379C0E09a41d7978f883a56246290eE9a8c4d3",
       "name": "Aave",
