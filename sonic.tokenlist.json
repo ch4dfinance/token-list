@@ -16,6 +16,14 @@
     },
     {
       "chainId": 146,
+      "address": "0xf5CFC98Ad70c924D17C9fe34D12E388F9492a806",
+      "name": "Chad Usd",
+      "symbol": "CUSD",
+      "decimals": 18,
+      "logoURI": "https://ik.imagekit.io/xcb8e11yh/cusd_v0.png?updatedAt=1708114497148"
+    },
+    {
+      "chainId": 146,
       "address": "0x29219dd400f2Bf60E5a23d13Be72B486D4038894",
       "name": "Bridged USDC",
       "symbol": "USDC.e",
