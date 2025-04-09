@@ -23846,5 +23846,10 @@
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/38490/thumb/USDa.png?1717688209"
   }
-]
+],
+  "version": {
+    "major": 1,
+    "minor": 36,
+    "patch": 0
+  }
 }
