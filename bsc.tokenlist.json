@@ -6,14 +6,6 @@
   ],
   "timestamp": "2025-03-20T08:00:40.340+00:00",
   "tokens":[
-    {
-      "chainId": 56,
-      "address": "0xAd0dbaDaf5205c0f738B4bA09D89D3454c0A87F0",
-      "name": "Chad USD",
-      "symbol": "CUSD",
-      "decimals": 18,
-      "logoURI": "https://ik.imagekit.io/xcb8e11yh/cusd_v0.png?updatedAt=1708114497148"
-    },
   {
     "name": "Lithosphere",
     "symbol": "LITHO",
